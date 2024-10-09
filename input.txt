@@ -1,0 +1,33 @@
+#include<<flang.h>>
+fmain [ ]
+$ 
+fint _f|
+fstring _j|
+ffloat _a=9.0|
+##single line comment
+/*
+multiline
+comment
+*/
+ffor @ fint _ng=0;_ng<=10;_ng++ @
+(
+_j=_k+_m|
+)
+fwhile @ _m>=10 @
+(
+_m++|
+)
+fif @ _n<=_j @
+( 
+_j=_k+_m|
+)
+felsif @ _n<=_j @
+(
+_j=_k+_m|
+)
+felse
+(
+_j=_k+_m|
+)
+fret 0|
+$

@@ -1,0 +1,16 @@
+Directive is declared correctly
+In the main function
+This is a valid declaration
+This is a valid declaration
+This is a valid declaration
+Single line comment detected
+
+Multi line comment detected
+
+for loop detected
+fwhile loop detected
+fif-felsif-felse detected
+Program ended
+Total variables: 21
+Total statements: 9
+Total keywords: 2
